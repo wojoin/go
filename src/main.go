@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"fmt"
-	"github.com/wojoin/go/util"
+	"github.com/wojoin/go/src/util"
 )
 
 
